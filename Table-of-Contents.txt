@@ -1,3 +1,10 @@
 001 Refactoring refactoring 001
+Chapter 1 Refactoring refactoring
+
 002 Looking under the hood of refactoring 013
-Part 1 Learn by Refactoring a Computer Game 021
+Part 1 Learn by Refactoring a Computer Game 021 - 170 (150)
+  03 Shatter Long Functions 023
+  04 Make type codes work 044
+  05 Fuse similar code together
+  06 Defend the data
+Part 2 Taking What You Have Learned Into the Real World 171
