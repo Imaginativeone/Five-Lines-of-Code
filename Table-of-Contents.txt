@@ -4,6 +4,14 @@ Chapter 1 Refactoring refactoring
 002 Looking under the hood of refactoring 013
 Part 1 Learn by Refactoring a Computer Game 021 - 170 (150)
   03 Shatter Long Functions 023
+    3.1 Establishing our first rule: Why five lines? 024
+    3.2 Introducing a refactoring pattern to break up functions 027
+    3.3 Breaking up functions to balancing abstraction 035
+      Refactoring pattern: EXTRACT METHOD 031
+    3.4 Properties of a good function name 037
+    3.5 Breaking up functions that are doing too much 039
+      Rule: IF ONLY AT THE START 040
+      Applying the rule 041
   04 Make type codes work 044
   05 Fuse similar code together
   06 Defend the data
