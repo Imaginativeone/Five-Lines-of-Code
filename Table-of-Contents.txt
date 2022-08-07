@@ -8,3 +8,11 @@ Part 1 Learn by Refactoring a Computer Game 021 - 170 (150)
   05 Fuse similar code together
   06 Defend the data
 Part 2 Taking What You Have Learned Into the Real World 171
+  07 Collaborate with the compiler
+  08 Stay away from comments
+  09 Love deleting code
+  10 Never be afraid to add code
+  11 Follow the structure in code
+  12 Avoid optimizations and generality
+  13 Make bad code look bad
+  14 Wrapping Up
